@@ -11,3 +11,8 @@ SDL2main
 
 *nix:
 SDL2
+
+To run the application:
+1. write name of file in the Makefile replacing whatever.cpp in the OBJS 
+2. run command `make all`
+3. run the executable `hello_sdl`
